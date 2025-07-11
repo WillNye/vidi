@@ -1,12 +1,12 @@
 package data_destination
 
 import (
-	"awesomeProject/core"
 	"gocv.io/x/gocv"
 	"log/slog"
 	"os"
 	"path/filepath"
 	"strconv"
+	"vidi/core"
 )
 
 type FileImage struct {

@@ -1,8 +1,8 @@
 package data_destination
 
 import (
-	"awesomeProject/core"
 	"strings"
+	"vidi/core"
 )
 
 type Destination interface {

@@ -1,9 +1,9 @@
 package data_classifier
 
 import (
-	"awesomeProject/core"
 	"github.com/asaskevich/EventBus"
 	"gocv.io/x/gocv"
+	"vidi/core"
 )
 
 type DataClassifier interface {

@@ -1,11 +1,11 @@
 package main
 
 import (
-	"awesomeProject/data_classifier"
-	"awesomeProject/data_destination"
-	"awesomeProject/data_source"
 	"log/slog"
 	"time"
+	"vidi/data_classifier"
+	"vidi/data_destination"
+	"vidi/data_source"
 )
 
 func main() {

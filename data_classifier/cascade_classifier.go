@@ -1,12 +1,12 @@
 package data_classifier
 
 import (
-	"awesomeProject/core"
-	"awesomeProject/data_source"
 	"github.com/asaskevich/EventBus"
 	"gocv.io/x/gocv"
 	"image/color"
 	"log/slog"
+	"vidi/core"
+	"vidi/data_source"
 )
 
 type CascadeClassifier struct {
